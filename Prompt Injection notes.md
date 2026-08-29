@@ -1,9 +1,3 @@
-# OWASP LLM01 — PROMPT INJECTION
-
-## Complete Class 1 + Class 2 Revision Notes
-
----
-
 # 1. What is Prompt Injection?
 
 **Prompt Injection** occurs when an LLM fails to properly distinguish between:
@@ -1738,5 +1732,3 @@ Excessive Permissions
        ↓
 Potentially Serious Impact
 ```
-
-**That is the key concept connecting Class 1 and Class 2.**
